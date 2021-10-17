@@ -1,0 +1,21 @@
+{
+    "name": "josachdeva-light",
+    "displayName": "JoSachdeva Light",
+    "description": "JoSachdeva theme!",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.58.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "JoSachdeva Light",
+                "uiTheme": "vs",
+                "path": "./themes/JoSachdeva Light-color-theme.json"
+            }
+        ]
+    }
+}
